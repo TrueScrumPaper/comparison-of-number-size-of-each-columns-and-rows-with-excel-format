@@ -1,1 +1,2 @@
-# My-first-work
+# This is my frist work!
+I am a highschool student who major in molecular biology, so actually this document is just for me to finish my Chemistry report. I need a program to test the ionizaiton energy is increasing as the number of electron that be ionized increase. Therefore, I need a fast and convice way to do so. I hope no one will criticize why such simple code can exist in github...Just a simple sharing. If you think it is so lame you can just quit, but if you think that is good I will be very grateful for you appreciation!
